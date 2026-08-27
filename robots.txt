@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://riosbar.com.br/sitemap.xml

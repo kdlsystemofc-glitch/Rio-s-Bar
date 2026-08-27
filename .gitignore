@@ -1,0 +1,11 @@
+_kdl/
+node_modules/
+reports/
+referencia/
+.env
+.env.*
+*.log
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
