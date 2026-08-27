@@ -336,19 +336,17 @@ img {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url('../imagens/hero-rios-bar-8k.webp');
+  background-image: url('../imagens/hero-rios-bar.webp');
   background-image: image-set(
-    url('../imagens/hero-rios-bar-8k.webp') type('image/webp'),
-    url('../imagens/hero-rios-bar-8k.jpg') type('image/jpeg'),
+    url('../imagens/hero-rios-bar.webp') type('image/webp'),
+    url('../imagens/hero-rios-bar.jpg') type('image/jpeg'),
     url('../imagens/imgi_17_624670093_18194134228342006_3878169256359748712_n.jpg') type('image/jpeg')
   );
   background-size: cover;
-  background-position: center 26%;
-  transform: translateZ(0) scale(1.008);
+  background-position: center 25%;
+  transform: translateZ(0) scale(1.01);
   backface-visibility: hidden;
-  image-rendering: -webkit-optimize-contrast;
-  image-rendering: high-quality;
-  filter: contrast(1.06) brightness(0.95);
+  filter: contrast(1.04) brightness(0.96);
   transition: transform var(--transition-smooth);
   z-index: 1;
 }
